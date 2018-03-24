@@ -1,0 +1,2 @@
+﻿  AddBinary.cpp
+LINK : fatal error LNK1168: 无法打开 G:\C++学习\code\exercise\leetcode\Debug\AddBinary.exe 进行写入

@@ -1,0 +1,5 @@
+﻿  NumString.cpp
+g:\c++学习\code\exercise\leetcode\numstring\numstring.cpp(33): warning C4018: “<”: 有符号/无符号不匹配
+g:\c++学习\code\exercise\leetcode\numstring\numstring.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+  NumString.vcxproj -> G:\C++学习\code\exercise\leetcode\Debug\NumString.exe
+  NumString.vcxproj -> G:\C++学习\code\exercise\leetcode\Debug\NumString.pdb (Full PDB)

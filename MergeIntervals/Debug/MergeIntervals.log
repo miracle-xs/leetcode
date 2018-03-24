@@ -1,0 +1,4 @@
+﻿  MergeIntervals.cpp
+g:\c++学习\code\exercise\leetcode\mergeintervals\mergeintervals.cpp(37): warning C4018: “<”: 有符号/无符号不匹配
+  MergeIntervals.vcxproj -> G:\C++学习\code\exercise\leetcode\Debug\MergeIntervals.exe
+  MergeIntervals.vcxproj -> G:\C++学习\code\exercise\leetcode\Debug\MergeIntervals.pdb (Full PDB)

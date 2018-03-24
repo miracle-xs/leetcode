@@ -1,0 +1,4 @@
+﻿  ValidateBinartSearchTree.cpp
+g:\c++学习\code\exercise\leetcode\validatebinartsearchtree\validatebinartsearchtree.cpp(34): warning C4018: “<”: 有符号/无符号不匹配
+  ValidateBinartSearchTree.vcxproj -> G:\C++学习\code\exercise\leetcode\Debug\ValidateBinartSearchTree.exe
+  ValidateBinartSearchTree.vcxproj -> G:\C++学习\code\exercise\leetcode\Debug\ValidateBinartSearchTree.pdb (Full PDB)

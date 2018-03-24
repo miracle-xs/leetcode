@@ -1,0 +1,4 @@
+﻿  Sqrtx.cpp
+g:\c++学习\code\exercise\leetcode\sqrtx\sqrtx.cpp(18): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  Sqrtx.vcxproj -> G:\C++学习\code\exercise\leetcode\Debug\Sqrtx.exe
+  Sqrtx.vcxproj -> G:\C++学习\code\exercise\leetcode\Debug\Sqrtx.pdb (Full PDB)

@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  insertPos.cpp
+g:\学习\c++学习\code\exercise\leetcode\insertpos\insertpos.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+g:\学习\c++学习\code\exercise\leetcode\insertpos\insertpos.cpp(17): warning C4715: “searchInsert”: 不是所有的控件路径都返回值
+  insertPos.vcxproj -> G:\学习\C++学习\code\exercise\leetcode\Debug\insertPos.exe
+  insertPos.vcxproj -> G:\学习\C++学习\code\exercise\leetcode\Debug\insertPos.pdb (Full PDB)

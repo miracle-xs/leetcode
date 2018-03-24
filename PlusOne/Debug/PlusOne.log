@@ -1,0 +1,7 @@
+﻿  PlusOne.cpp
+g:\c++学习\code\exercise\leetcode\plusone\plusone.cpp(14): warning C4018: “<”: 有符号/无符号不匹配
+g:\c++学习\code\exercise\leetcode\plusone\plusone.cpp(15): warning C4244: “+=”: 从“double”转换到“int”，可能丢失数据
+g:\c++学习\code\exercise\leetcode\plusone\plusone.cpp(19): warning C4018: “<”: 有符号/无符号不匹配
+g:\c++学习\code\exercise\leetcode\plusone\plusone.cpp(20): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  PlusOne.vcxproj -> G:\C++学习\code\exercise\leetcode\Debug\PlusOne.exe
+  PlusOne.vcxproj -> G:\C++学习\code\exercise\leetcode\Debug\PlusOne.pdb (Full PDB)

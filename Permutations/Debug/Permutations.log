@@ -1,0 +1,4 @@
+﻿  Permutations.cpp
+g:\c++学习\code\exercise\leetcode\permutations\permutations.cpp(37): warning C4018: “<”: 有符号/无符号不匹配
+  Permutations.vcxproj -> G:\C++学习\code\exercise\leetcode\Debug\Permutations.exe
+  Permutations.vcxproj -> G:\C++学习\code\exercise\leetcode\Debug\Permutations.pdb (Full PDB)

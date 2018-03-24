@@ -1,0 +1,4 @@
+﻿  letterCombinations.cpp
+g:\c++学习\code\exercise\leetcode\lettercombinations\lettercombinations.cpp(66): warning C4018: “<”: 有符号/无符号不匹配
+  letterCombinations.vcxproj -> G:\C++学习\code\exercise\leetcode\Debug\letterCombinations.exe
+  letterCombinations.vcxproj -> G:\C++学习\code\exercise\leetcode\Debug\letterCombinations.pdb (Full PDB)

@@ -1,0 +1,8 @@
+﻿  BubbleSort.cpp
+g:\c++学习\code\exercise\leetcode\bubblesort\bubblesort.cpp(22): warning C4018: “<”: 有符号/无符号不匹配
+g:\c++学习\code\exercise\leetcode\bubblesort\bubblesort.cpp(31): warning C4018: “<”: 有符号/无符号不匹配
+g:\c++学习\code\exercise\leetcode\bubblesort\bubblesort.cpp(33): warning C4018: “<”: 有符号/无符号不匹配
+g:\c++学习\code\exercise\leetcode\bubblesort\bubblesort.cpp(45): warning C4018: “<”: 有符号/无符号不匹配
+g:\c++学习\code\exercise\leetcode\bubblesort\bubblesort.cpp(43): warning C4101: “i”: 未引用的局部变量
+  BubbleSort.vcxproj -> G:\C++学习\code\exercise\leetcode\Debug\BubbleSort.exe
+  BubbleSort.vcxproj -> G:\C++学习\code\exercise\leetcode\Debug\BubbleSort.pdb (Full PDB)

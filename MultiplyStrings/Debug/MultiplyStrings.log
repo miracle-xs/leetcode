@@ -1,0 +1,4 @@
+﻿  MultiplyStrings.cpp
+g:\c++学习\code\exercise\leetcode\multiplystrings\multiplystrings.cpp(53): warning C4018: “<”: 有符号/无符号不匹配
+  MultiplyStrings.vcxproj -> G:\C++学习\code\exercise\leetcode\Debug\MultiplyStrings.exe
+  MultiplyStrings.vcxproj -> G:\C++学习\code\exercise\leetcode\Debug\MultiplyStrings.pdb (Full PDB)

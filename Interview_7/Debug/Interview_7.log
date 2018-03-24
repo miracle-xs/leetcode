@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  Interview_7.cpp
+g:\c++学习\code\exercise\leetcode\interview_7\interview_7.cpp(22): error C4716: “Construct”: 必须返回一个值
+g:\c++学习\code\exercise\leetcode\interview_7\interview_7.cpp(56): warning C4715: “ConstructCore”: 不是所有的控件路径都返回值

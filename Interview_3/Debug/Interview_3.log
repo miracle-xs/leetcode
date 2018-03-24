@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  Interview_3.cpp
+g:\c++学习\code\exercise\leetcode\interview_3\interview_3.cpp(15): warning C4018: “<”: 有符号/无符号不匹配
+g:\c++学习\code\exercise\leetcode\interview_3\interview_3.cpp(24): warning C4018: “<”: 有符号/无符号不匹配
+  Interview_3.vcxproj -> G:\C++学习\code\exercise\leetcode\Debug\Interview_3.exe
+  Interview_3.vcxproj -> G:\C++学习\code\exercise\leetcode\Debug\Interview_3.pdb (Full PDB)

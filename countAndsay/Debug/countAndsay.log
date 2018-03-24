@@ -1,0 +1,4 @@
+﻿  countAndsay.cpp
+g:\学习\c++学习\code\exercise\leetcode\countandsay\countandsay.cpp(17): warning C4018: “<”: 有符号/无符号不匹配
+  countAndsay.vcxproj -> G:\学习\C++学习\code\exercise\leetcode\Debug\countAndsay.exe
+  countAndsay.vcxproj -> G:\学习\C++学习\code\exercise\leetcode\Debug\countAndsay.pdb (Full PDB)
